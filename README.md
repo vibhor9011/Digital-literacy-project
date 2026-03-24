@@ -31,7 +31,7 @@ Your online profile is your modern resume. I have set up my foundational presenc
 To keep my logic sharp, I completed a challenge on CodeChef. I also built a Google Form quiz to help my batchmates check their own digital literacy levels.
 
 ### **Task 4: Professional Communication**
-Learning to communicate professionally is a total game-changer. I have drafted formal emails—like asking for an extension or applying for an internship—that follow all the traditional rules of etiquette.
+Learning to communicate professionally is a total game-changer. I have drafted formal emails—like asking for an extension or applying for an internship—that follow all the traditional rules of etiquette.I also made Social Media Do's and Don't checklist
 
 ### **Task 5: Cybersecurity Awareness**
 Online threats like UPI fraud are real in India. I wrote a case study on how these scams work and provided a prevention checklist with official reporting channels like Helpline 1930 to keep our batch safe.
