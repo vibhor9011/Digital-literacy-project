@@ -28,7 +28,7 @@ I used Canva to design a one-page infographic that makes digital literacy easy t
 Your online profile is your modern resume. I have set up my foundational presence on GitHub, LinkedIn, and Kaggle to stay connected with the academic and professional community.
 
 ### **Task 3: Code & Cloud Collaboration**
-To keep my logic sharp, I completed a challenge on CodeChef. I also built a Google Form quiz to help my batchmates check their own digital literacy levels.
+To keep my logic sharp, I completed a challenge on CodeChef. I also built a Google Form quiz to help my batchmates check their own digital literacy levels.Link of the form and response sheet is given below.
 
 ### **Task 4: Professional Communication**
 Learning to communicate professionally is a total game-changer. I have drafted formal emails—like asking for an extension or applying for an internship—that follow all the traditional rules of etiquette.I also made Social Media Do's and Don't checklist
@@ -38,4 +38,5 @@ Online threats like UPI fraud are real in India. I wrote a case study on how the
 
 ## 🔗 Important Links
 * **Digital Literacy Quiz (Google Form):** https://forms.gle/coQH9i3CmhGrXexKA
+* **Digital Literacy Awareness Quiz (Responses)** https://docs.google.com/spreadsheets/d/1qXz8W-Z-4DfIINtas_0X4nrLW_N3COhQxFqCqrsBXzI/edit?usp=sharing
 * **National Cyber Crime Portal:** [cybercrime.gov.in](https://cybercrime.gov.in/)
