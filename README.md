@@ -3,8 +3,11 @@ VITYARTHI PROJECT
 # Digital Literacy Portfolio: Student Ambassador Edition
 
 **Name:** Vibhor Srivastava
+
 **Registration Number:** 25MIM10093
+
 **Connect with me:** (https://www.linkedin.com/in/vibhor-srivastava-8b6a28381/)
+
 
 ## 📌 Project Overview
 I have been selected as a Student Digital Ambassador. My role is to help my peers navigate the digital world—from building a professional presence to staying safe from online threats. This repository is my official Digital Literacy Portfolio, combining forward-thinking tech skills with the traditional rules of professional communication.
