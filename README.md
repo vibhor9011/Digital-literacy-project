@@ -1,4 +1,4 @@
-# digital_literacy_25mim10093
+# Digital-literacy-project
 VITYARTHI PROJECT
 # Digital Literacy Portfolio: Student Ambassador Edition
 
