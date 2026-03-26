@@ -3,4 +3,5 @@ For Task 3, I used HackerRank and Google Workspace. First, I knocked out a basic
 Then, I used Google Forms to build a 5-question "Digital Literacy Awareness Quiz" for our batch, making sure to include both multiple-choice and short-answer questions. I linked it to a Google Sheet to easily collect and view the responses. This setup is going to be a lifesaver for my academics. For group projects, emailing files back and forth the old-school way is a complete mess. Using cloud tools like Workspace makes working together on presentations and reports way faster and cleaner. I'll definitely be using this for all my group assignments from now on to keep everything organized.
 
 Digital Literacy Quiz (Google Form): https://forms.gle/coQH9i3CmhGrXexKA
+
 Digital Literacy Awareness Quiz (Responses) https://docs.google.com/spreadsheets/d/1qXz8W-Z-4DfIINtas_0X4nrLW_N3COhQxFqCqrsBXzI/edit?usp=sharing
